@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="30px" viewBox="0 0 40 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>cn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MDI_templ_2" transform="translate(-999.000000, -902.000000)">
+            <g id="cn" transform="translate(999.000000, 901.000000)">
+                <g id="Flag-of-the-People's-Republic-of-China">
+                    <g id="Clipped">
+                        <g id="Group">
+                            <polygon id="Shape" fill="#DE2910" points="0 0.8 40 0.8 40 30.8 0 30.8"></polygon>
+                            <g id="b-link" transform="translate(3.666667, 5.466667)" fill="#FFDE00">
+                                <polygon id="b" points="1.648 7.24 4 0 6.352 7.24 0.192 2.76 7.808 2.76"></polygon>
+                            </g>
+                            <g id="b-link" transform="translate(15.723688, 15.104632) rotate(239.070000) translate(-15.723688, -15.104632) translate(14.223688, 13.604632)" fill="#FFDE00">
+                                <polygon id="b" points="0.549129836 2.41353708 1.33312984 0.000203746081 2.11712984 2.41353708 0.0637965027 0.920203746 2.60246317 0.920203746"></polygon>
+                            </g>
+                            <g id="b-link" transform="translate(17.805209, 7.142646) rotate(261.890000) translate(-17.805209, -7.142646) translate(16.305209, 5.642646)" fill="#FFDE00">
+                                <polygon id="b" points="0.546764639 2.41594224 1.33076464 0.00260890783 2.11476464 2.41594224 0.0614313059 0.922608908 2.60009797 0.922608908"></polygon>
+                            </g>
+                            <g id="b-link" transform="translate(15.872817, 3.219063) rotate(-74.040000) translate(-15.872817, -3.219063) translate(14.372817, 1.719063)" fill="#FFDE00">
+                                <polygon id="b" points="0.549449729 2.41321702 1.33344973 -0.000116314658 2.11744973 2.41321702 0.0641163959 0.919883685 2.60278306 0.919883685"></polygon>
+                            </g>
+                            <g id="b-link" transform="translate(17.901078, 11.308696) rotate(-51.320000) translate(-17.901078, -11.308696) translate(16.401078, 9.808696)" fill="#FFDE00">
+                                <polygon id="b" points="0.55026677 2.4124051 1.33426677 -0.000928238033 2.11826677 2.4124051 0.0649334368 0.919071762 2.6036001 0.919071762"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

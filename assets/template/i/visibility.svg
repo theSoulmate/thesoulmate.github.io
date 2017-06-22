@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="2 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-/-Visibility">
+            <rect id="Rectangle-8" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="20" height="20"></rect>
+            <path transform="scale(.018) translate(130,120)" d="M512 554.667c70 0 128-58 128-128s-58-128-128-128-128 58-128 128 58 128 128 128zM512 212.667c118 0 214 96 214 214s-96 214-214 214-214-96-214-214 96-214 214-214zM512 746.667c214 0 396-132 470-320-74-188-256-320-470-320s-396 132-470 320c74 188 256 320 470 320z" id="visibility" fill="#B4BDC6"></path>
+        </g>
+    </g>
+</svg>
